@@ -2,11 +2,11 @@
 
 A minimalistic Browser
 
-> by Paul Koeck
+> by NFT Knight
 
 ## Example
 
-![alt example](https://github.com/paulkoeckdev/MinimalBrowser/blob/main/example.png?raw=true)
+![alt example](./example.png)
 
 ## Installation
 
